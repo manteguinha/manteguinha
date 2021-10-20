@@ -22,6 +22,7 @@
   <a href="https://chat.whatsapp.com/Cbay15gw8KI3qNmSi6Tf3C"><img alt="WhatsApp" src="https://img.shields.io/badge/grupo%20do%20whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://instagram.com/manteguinha_mantega" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-vinicius-336a8411b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 	
+  <a href="https://twitter.com/mantega_peidou" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 	
  <a href="https://www.twitch.tv/manteguinha_mantega" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/manteguinha/manteguinha/blob/output/github-contribution-grid-snake.svg)
