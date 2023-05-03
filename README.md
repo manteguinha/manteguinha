@@ -1,9 +1,13 @@
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **𝙾𝚙𝚊, 𝚎𝚊𝚎!**
- <div>
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><b> 𝙾𝚙𝚊, 𝚎𝚊𝚎!</b>
+<br>
+<div>
   <a href="https://github.com/manteguinha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manteguinha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manteguinha&layout=default&langs_count=7&theme=tokyonight"/>
 </div>
+ 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Mantega-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mantega-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
@@ -16,10 +20,11 @@
   ##
    
 <div>
-  <a href="https://instagram.com/marcosvinicius.zip" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/manteguinha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 	
-  <a href="https://twitter.com/manteguinhaaa" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 	
- <a href="https://www.twitch.tv/manteguinha_mantega" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+  <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/marcosvinicius.zip"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>	
+  <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/manteguinha/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+  <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/manteguinhaaa"><img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
  
   ![Snake animation](https://github.com/manteguinha/manteguinha/blob/output/github-contribution-grid-snake.svg)
  
