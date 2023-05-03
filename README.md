@@ -1,4 +1,4 @@
-## Opa, eae!
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **𝙾𝚙𝚊, 𝚎𝚊𝚎!**
  <div>
   <a href="https://github.com/manteguinha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manteguinha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -9,7 +9,8 @@
   <img align="center" alt="Mantega-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="Mantega-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Mantega-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="right" alt="Mantega-gif" src="https://cdn.discordapp.com/attachments/818921810665406534/875860860805996604/Webp.net-gifmaker_1.gif">
+  <!-- <img align="right" alt="Mantega-gif" src="https://cdn.discordapp.com/attachments/818921810665406534/875860860805996604/Webp.net-gifmaker_1.gif"> -->
+  <img align="right" alt="Mantega-gif" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="124">>
 </div>
   
   ##
