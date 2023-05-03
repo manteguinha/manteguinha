@@ -10,7 +10,7 @@
   <img align="center" alt="Mantega-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Mantega-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <!-- <img align="right" alt="Mantega-gif" src="https://cdn.discordapp.com/attachments/818921810665406534/875860860805996604/Webp.net-gifmaker_1.gif"> -->
-  <img align="right" alt="Mantega-gif" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="124">>
+  <img align="right" alt="Mantega-gif" height="124" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 </div>
   
   ##
